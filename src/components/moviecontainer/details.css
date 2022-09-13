@@ -1,0 +1,39 @@
+.main_container{
+    position: absolute; 
+    top: 0;
+    left: 0;
+    right: 0;
+    left: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    height: 100%;
+    opacity: 100%;
+}
+
+.model{
+    min-width: 400px;
+    min-height: 400px;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    display: block;
+}
+
+.titletext{
+    height: 30px;
+}
+
+.text{
+    font-size: 14px;
+    padding: 2px;
+}
+
+.rate{
+    height: 30px;
+}
+
+.description{
+    font-size: 10px;
+}
